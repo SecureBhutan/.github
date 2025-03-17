@@ -32,8 +32,8 @@ Secure Bhutan is your trusted partner in cybersecurity solutions, dedicated to s
 ## Contact Us
 
 - **Address**: Thimphu, Bhutan
-- **Email**: [contact@securebhutan.com](mailto:contact@securebhutan.com)
-- **Phone**: +975 17123456
+- **Email**: [securebtn@gmail.com](mailto:contact@securebhutan.com)
+- **Phone**: +975 17655230
 
 For more information, visit our website: [https://securebhutan.com/](https://securebhutan.com/)
 
