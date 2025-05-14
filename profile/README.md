@@ -32,9 +32,9 @@ Cyber Deities is your trusted partner in cybersecurity solutions, dedicated to s
 ## Contact Us
 
 - **Address**: Thimphu, Bhutan
-- **Email**: [securebtn@gmail.com](mailto:contact@securebhutan.com)
+- **Email**: [cyber00deities@gmail.com](mailto:contact@securebhutan.com)
 - **Phone**: +975 17655230
 
-For more information, visit our website: [https://securebhutan.com/](https://securebhutan.com/)
+For more information, visit our website: [https://securebhutan.com/](https://cyberdeities.com/)
 
 *© 2025 Cyber Deities. All rights reserved.*
