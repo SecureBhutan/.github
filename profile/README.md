@@ -35,6 +35,6 @@ Cyber Deities is your trusted partner in cybersecurity solutions, dedicated to s
 - **Email**: [cyber00deities@gmail.com](mailto:contact@securebhutan.com)
 - **Phone**: +975 17655230
 
-For more information, visit our website: [https://securebhutan.com/](https://cyberdeities.com/)
+For more information, visit our website: [https://cyberdeities.com/](https://cyberdeities.com/)
 
 *© 2025 Cyber Deities. All rights reserved.*
