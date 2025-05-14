@@ -1,4 +1,4 @@
-# Secure Bhutan
+# Cyber Deities
 
 **Protecting Bhutan's Digital Future**
 
@@ -7,7 +7,7 @@
 
 ## About Us
 
-Secure Bhutan is your trusted partner in cybersecurity solutions, dedicated to safeguarding Bhutan's digital landscape. We offer a comprehensive suite of services tailored to meet the unique needs of Bhutanese businesses.
+Cyber Deities is your trusted partner in cybersecurity solutions, dedicated to safeguarding Bhutan's digital landscape. We offer a comprehensive suite of services tailored to meet the unique needs of Bhutanese businesses.
 
 ## Our Services
 
@@ -16,7 +16,7 @@ Secure Bhutan is your trusted partner in cybersecurity solutions, dedicated to s
 - **Incident Response & Forensics**: Swiftly recover from cyberattacks, trace perpetrators, and bolster your security posture.
 - **Cybersecurity Awareness Training**: Equip your employees with the knowledge to recognize and prevent cyber threats.
 
-## Why Choose Secure Bhutan?
+## Why Choose Cyber Deities?
 
 - **Local Expertise**: We possess an in-depth understanding of the specific needs of Bhutanese businesses, setting us apart from foreign firms.
 - **Affordable Pricing**: Our services are cost-effective, providing excellent value compared to international security providers.
@@ -37,4 +37,4 @@ Secure Bhutan is your trusted partner in cybersecurity solutions, dedicated to s
 
 For more information, visit our website: [https://securebhutan.com/](https://securebhutan.com/)
 
-*© 2025 Secure Bhutan. All rights reserved.*
+*© 2025 Cyber Deities. All rights reserved.*
